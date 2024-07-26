@@ -1,2 +1,1 @@
-
-httpsedabit.comchallenges
+https://edabit.com/challenges
